@@ -1,5 +1,4 @@
 practice_uber-pickup/env_uber/
 practice_penguins/env_penguins/
-age-classification/env_age-classification/
-age-classification/hugging_token.txt
-age-classification/.git
+age-classification/
+funny-title-generator/env_funny_title_generator/
