@@ -1,0 +1,10 @@
+transformers
+pillow
+streamlit
+
+# https://pytorch.org/
+torch
+torchvision
+torchaudio
+
+numpy<2
